@@ -3,12 +3,6 @@
 Welcome to my certificates repository!
 This repo highlights my learning journey, technical skills, and professional growth through certifications and projects in Data Analytics, Python, R, BI tools, and AI.
 
-👩‍🎓 **Education**
-
-🎓 M.Tech Medical Biotechnology – [Indian Institute of Technology,Hyderabad] 2025
-
-📖_Coursework_: NGS technology, Pharmacology of receptors, Advance courses in Biotechnology
-
 🛠️ **Skills**
 
 Programming: Python, R, SQL, Shell Scripting
