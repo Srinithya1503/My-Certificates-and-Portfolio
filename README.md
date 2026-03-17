@@ -12,13 +12,13 @@ Web Scraping: BeautifulSoup, Requests, Selenium
 Others: Git/GitHub, Excel
 
 🏅 **Certifications**
-Google Data Analytics Professional Certificate      
-Python Fundamentals 
-R Programming: Advanced analytics 
-Power BI for beginners
-Generative AI Foundations
-AI foundations and everyday use
-AI in Biology
+
+- Google Data Analytics Professional Certificate      
+- Python Fundamentals 
+- R Programming: Advanced analytics 
+- Power BI for beginners
+- Generative AI Foundations
+
 
 📂 **Projects**
 
