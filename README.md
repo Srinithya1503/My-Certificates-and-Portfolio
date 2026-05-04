@@ -4,32 +4,17 @@ Welcome to my certificates repository!
 This repo highlights my learning journey, technical skills, and professional growth through certifications and projects in Data Analytics, Python, R, BI tools, and AI.
 
 🛠️ **Skills**
-
-Programming: Python, R, SQL, Shell Scripting
-Data Science: Pandas, NumPy, Matplotlib, Seaborn, tidyverse, ggplot2
-Business Intelligence: Tableau, Power BI
-Web Scraping: BeautifulSoup, Requests, Selenium
-Others: Git/GitHub, Excel
+1. **Data Analytics**
+- *Programming:* Python, R, SQL, Shell Scripting
+- *Business Intelligence:* Tableau, Power BI, MS Excel
+- *Domain Expertise:* Clinical Trial Design, GCP, ICH 10-11 Medical Coding, TMF
+- *Others:* Git/GitHub
 
 🏅 **Certifications**
-
 - Google Data Analytics Professional Certificate      
 - Python Fundamentals 
 - R Programming: Advanced analytics 
-- Power BI for beginners
 - Generative AI Foundations
-
-
-📂 **Projects**
-
-🔹 **Web Scraping Practice**
-Collected and analyzed data using **BeautifulSoup and Requests**.
-
-🔹 **Global Cybersecurity Trends**
-Analyzed global cyber incidents dataset using R tidyverse and ggplot2 libraries.
-
-🔹 **Tableau Dashboard**
-Interactive dashboard to visualize sales, profits, and customer segments.
 
 
 📫 **Connect With Me**
